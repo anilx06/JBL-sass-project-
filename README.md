@@ -4,4 +4,4 @@ HTML ve SCSS kullanılarak oluşturulmuştur.
 
 <h2> EKRAN GÖRÜNTÜSÜ </h2>
 
-![](jbl sass project.gif)
+![](jblsassproject.gif)
